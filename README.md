@@ -25,6 +25,13 @@ Topics covered in this guide:
 - **Error handling**: how to represent and propagate errors
 - **Testing**: test structure, naming, what to test
 
+## Pages
+
+| Page | Topic |
+|---|---|
+| [schemas.md](schemas.md) | Schema definitions across models, wire, and Datalevin layers |
+| [databases/datalevin-operations.md](databases/datalevin-operations.md) | Datalevin query and mutation patterns |
+
 ## How to Use
 
 If you are Claude (or another AI tool): read this guide before writing any Clojure code for me. When in doubt, follow what is written here over any external style guide, community convention, or your training defaults. If something is not covered here, ask before assuming.
