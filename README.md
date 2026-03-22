@@ -23,10 +23,12 @@ Topics covered in this guide:
 - **Naming conventions**: functions, vars, namespaces, predicates, constants
 - **Idioms**: preferred patterns and how to use core Clojure effectively
 - **Anti-patterns**: what to avoid and why
-- **Library preferences**: which libraries I reach for and which I avoid
+- **Library preferences**: which libraries I reach for and which I avoid (see [library-preferences.md](library-preferences.md))
 - **Project structure**: namespace organization, directory layout, dependency management
 - **Error handling**: how to represent and propagate errors
 - **Testing**: test structure, naming, what to test
+- **Integrant patterns**: service startup and shutdown (see [integrant-patterns.md](integrant-patterns.md))
+- **Datalevin/Datomic conventions**: schema design (see [datalevin-conventions.md](datalevin-conventions.md))
 
 ## How to Use
 
